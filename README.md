@@ -1,6 +1,6 @@
 # [p5mirror](https://github.com/molab-itp/p5mirror)
 
-- [github pages p5 projects-index](https://molab-itp.github.io/p5mirror-gg447062/p5projects-index.html)
+- [github pages p5 projects-index](https://gg447062.github.io/p5mirror-gg447062//p5projects-index.html)
   Edit link above for your github pages url
 
 ## How ? Quick start
