@@ -1,6 +1,6 @@
 # [p5mirror](https://github.com/molab-itp/p5mirror)
 
-- [github pages p5projects-index](https://molab-itp.github.io/p5mirror/p5projects-index.html)
+- [github pages p5 projects-index](https://molab-itp.github.io/p5mirror-gg447062/p5projects-index.html)
   Edit link above for your github pages url
 
 ## How ? Quick start
@@ -18,7 +18,7 @@ open https://nodejs.org/en/download
 
 # run this bash script in the root of your repo
 
-bin/mirror.sh --user p5name
+bin/mirror.sh --user gg447062
 
 # and then commit changes in github desktop
 
